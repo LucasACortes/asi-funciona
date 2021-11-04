@@ -1,0 +1,13 @@
+.l-list-element {
+    padding: 1.2rem;
+    margin: .8rem;
+    border: 1px solid black;
+    max-width: 100%;
+}
+
+.first {
+    background-color: teal;
+}
+
+/* .arrow {
+} */
